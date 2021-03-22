@@ -1,1 +1,1 @@
-# service-worker-experiment
+# Playing with service workers

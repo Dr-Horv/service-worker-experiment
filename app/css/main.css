@@ -1,0 +1,17 @@
+.main {
+  padding: 44px;
+  background: aliceblue;
+  color: #444;
+  text-align: center;
+  font-family: 'Parisienne', cursive;
+  font-size: 44px;
+  display: flex;
+  justify-content: center;
+}
+
+.divider {
+  margin: 60px;
+  background: black;
+  height: 10px;
+  width: 80%;
+}
